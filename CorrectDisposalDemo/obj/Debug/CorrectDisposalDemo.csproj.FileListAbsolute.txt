@@ -4,3 +4,9 @@ c:\users\rich\documents\visual studio 2012\Projects\CorrectDisposalDemo\CorrectD
 c:\users\rich\documents\visual studio 2012\Projects\CorrectDisposalDemo\CorrectDisposalDemo\obj\Debug\CorrectDisposalDemo.exe
 c:\users\rich\documents\visual studio 2012\Projects\CorrectDisposalDemo\CorrectDisposalDemo\obj\Debug\CorrectDisposalDemo.pdb
 c:\users\rich\documents\visual studio 2012\Projects\CorrectDisposalDemo\CorrectDisposalDemo\obj\Debug\CorrectDisposalDemo.csprojResolveAssemblyReference.cache
+C:\Users\Rich\Source\Repos\Personal\CorrectDisposalDemo\CorrectDisposalDemo\bin\Debug\CorrectDisposalDemo.exe.config
+C:\Users\Rich\Source\Repos\Personal\CorrectDisposalDemo\CorrectDisposalDemo\obj\Debug\CorrectDisposalDemo.exe
+C:\Users\Rich\Source\Repos\Personal\CorrectDisposalDemo\CorrectDisposalDemo\obj\Debug\CorrectDisposalDemo.pdb
+C:\Users\Rich\Source\Repos\Personal\CorrectDisposalDemo\CorrectDisposalDemo\bin\Debug\CorrectDisposalDemo.exe
+C:\Users\Rich\Source\Repos\Personal\CorrectDisposalDemo\CorrectDisposalDemo\bin\Debug\CorrectDisposalDemo.pdb
+C:\Users\Rich\Source\Repos\Personal\CorrectDisposalDemo\CorrectDisposalDemo\obj\Debug\CorrectDisposalDemo.csprojResolveAssemblyReference.cache
